@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmartRobot</string>
+    <string name="title_activity_connect">Connect Device</string>
+    <string name="start_scanning">START SCANNING</string>
+    <string name="stop_scanning">STOP SCANNING</string>
+    <string name="connected">Connected:</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="connecting">Connecting...</string>
+    <string name="press_twice_to_exit">Please click BACK again to exit</string>
+    <string name="please_wait">Please wait...</string>
+    <string name="connection_success">Connected!</string>
+    <string name="connection_failed">Connection Failed!</string>
+</resources>
